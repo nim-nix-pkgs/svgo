@@ -9,13 +9,14 @@
   
   inputs.src-svgo-master.flake = false;
   inputs.src-svgo-master.owner = "jiro4989";
-  inputs.src-svgo-master.ref   = "refs/heads/master";
+  inputs.src-svgo-master.ref   = "master";
   inputs.src-svgo-master.repo  = "svgo";
   inputs.src-svgo-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
   inputs."cligen".ref   = "master";
   inputs."cligen".repo  = "cligen";
+  inputs."cligen".dir   = "v1_5_22";
   inputs."cligen".type  = "github";
   inputs."cligen".inputs.nixpkgs.follows = "nixpkgs";
   inputs."cligen".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
