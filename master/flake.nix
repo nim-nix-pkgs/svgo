@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-svgo-master.flake = false;
+  inputs.src-svgo-master.ref   = "refs/heads/master";
   inputs.src-svgo-master.owner = "jiro4989";
-  inputs.src-svgo-master.ref   = "master";
   inputs.src-svgo-master.repo  = "svgo";
   inputs.src-svgo-master.type  = "github";
   
