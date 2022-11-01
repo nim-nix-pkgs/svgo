@@ -14,11 +14,11 @@
       },
       "locked": {
         "dir": "v1_5_31",
-        "lastModified": 1667322200,
-        "narHash": "sha256-bL0F1z4tRVaKmR6UQWv3Z+t3K6clWtSz17H33ByJqMM=",
+        "lastModified": 1667329584,
+        "narHash": "sha256-Zmr23KcZpXNQDooZZxW0kUcm9oe8zF1CIPmbuYVdNYY=",
         "owner": "nim-nix-pkgs",
         "repo": "cligen",
-        "rev": "06804664e4ec0b0484337c406c2d87d9360701d3",
+        "rev": "423b7dfb2ae3aa4db2d4dc104e25f762fbb9356b",
         "type": "github"
       },
       "original": {
@@ -502,11 +502,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667323305,
-        "narHash": "sha256-wVxV9AdmxpBiVRIj2SqDgQtd/pa1dII+eTJEmMH1Qqs=",
+        "lastModified": 1667330454,
+        "narHash": "sha256-+RJDhhBY2yT8ah4QQcbkg1hEkBnQULpsHSxkSpPX2kM=",
         "owner": "nim-nix-pkgs",
         "repo": "svgo",
-        "rev": "e7ad17ee0210c76b7a5b291385669e4a06074aa6",
+        "rev": "0ba8bac7809dae83f0e4bb16f5ba08e54d871c9e",
         "type": "github"
       },
       "original": {
@@ -530,11 +530,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1667323305,
-        "narHash": "sha256-wVxV9AdmxpBiVRIj2SqDgQtd/pa1dII+eTJEmMH1Qqs=",
+        "lastModified": 1667330454,
+        "narHash": "sha256-+RJDhhBY2yT8ah4QQcbkg1hEkBnQULpsHSxkSpPX2kM=",
         "owner": "nim-nix-pkgs",
         "repo": "svgo",
-        "rev": "e7ad17ee0210c76b7a5b291385669e4a06074aa6",
+        "rev": "0ba8bac7809dae83f0e4bb16f5ba08e54d871c9e",
         "type": "github"
       },
       "original": {
@@ -558,11 +558,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1667323305,
-        "narHash": "sha256-wVxV9AdmxpBiVRIj2SqDgQtd/pa1dII+eTJEmMH1Qqs=",
+        "lastModified": 1667330454,
+        "narHash": "sha256-+RJDhhBY2yT8ah4QQcbkg1hEkBnQULpsHSxkSpPX2kM=",
         "owner": "nim-nix-pkgs",
         "repo": "svgo",
-        "rev": "e7ad17ee0210c76b7a5b291385669e4a06074aa6",
+        "rev": "0ba8bac7809dae83f0e4bb16f5ba08e54d871c9e",
         "type": "github"
       },
       "original": {
@@ -586,11 +586,11 @@
       },
       "locked": {
         "dir": "v0_2_1",
-        "lastModified": 1667323305,
-        "narHash": "sha256-wVxV9AdmxpBiVRIj2SqDgQtd/pa1dII+eTJEmMH1Qqs=",
+        "lastModified": 1667330454,
+        "narHash": "sha256-+RJDhhBY2yT8ah4QQcbkg1hEkBnQULpsHSxkSpPX2kM=",
         "owner": "nim-nix-pkgs",
         "repo": "svgo",
-        "rev": "e7ad17ee0210c76b7a5b291385669e4a06074aa6",
+        "rev": "0ba8bac7809dae83f0e4bb16f5ba08e54d871c9e",
         "type": "github"
       },
       "original": {
@@ -614,11 +614,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1667323305,
-        "narHash": "sha256-wVxV9AdmxpBiVRIj2SqDgQtd/pa1dII+eTJEmMH1Qqs=",
+        "lastModified": 1667330454,
+        "narHash": "sha256-+RJDhhBY2yT8ah4QQcbkg1hEkBnQULpsHSxkSpPX2kM=",
         "owner": "nim-nix-pkgs",
         "repo": "svgo",
-        "rev": "e7ad17ee0210c76b7a5b291385669e4a06074aa6",
+        "rev": "0ba8bac7809dae83f0e4bb16f5ba08e54d871c9e",
         "type": "github"
       },
       "original": {
@@ -642,11 +642,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1667323305,
-        "narHash": "sha256-wVxV9AdmxpBiVRIj2SqDgQtd/pa1dII+eTJEmMH1Qqs=",
+        "lastModified": 1667330454,
+        "narHash": "sha256-+RJDhhBY2yT8ah4QQcbkg1hEkBnQULpsHSxkSpPX2kM=",
         "owner": "nim-nix-pkgs",
         "repo": "svgo",
-        "rev": "e7ad17ee0210c76b7a5b291385669e4a06074aa6",
+        "rev": "0ba8bac7809dae83f0e4bb16f5ba08e54d871c9e",
         "type": "github"
       },
       "original": {
@@ -670,11 +670,11 @@
       },
       "locked": {
         "dir": "v0_3_1",
-        "lastModified": 1667323305,
-        "narHash": "sha256-wVxV9AdmxpBiVRIj2SqDgQtd/pa1dII+eTJEmMH1Qqs=",
+        "lastModified": 1667330454,
+        "narHash": "sha256-+RJDhhBY2yT8ah4QQcbkg1hEkBnQULpsHSxkSpPX2kM=",
         "owner": "nim-nix-pkgs",
         "repo": "svgo",
-        "rev": "e7ad17ee0210c76b7a5b291385669e4a06074aa6",
+        "rev": "0ba8bac7809dae83f0e4bb16f5ba08e54d871c9e",
         "type": "github"
       },
       "original": {
